@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "sql-workshop"
+version = "0.1.0"
+description = "Pacote para banco da nossa workshop"
+authors = ["Felipe Sebben <felipesebben@yahoo.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.23"
+psycopg2-binary = "^2.9.9"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

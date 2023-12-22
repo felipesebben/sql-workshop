@@ -19,7 +19,7 @@ O que vamos implementar neste repositório?
 - [ ]  ******API******
 - [ ]  ********CRUD********
 - [x]  ****************************Subir instância no banco****************************
-- [ ]  **************Datadog**************
+- [ ]  **************Streamlit**************
 - [ ]  **************Airflow**************
 
 ### Repositório central do projeto de referência:
@@ -285,3 +285,6 @@ Abra o pgadmin e adicione as credenciais criadas no render. Verifique se o banco
 Um banco livre de máquina local - PostgreSQL no render!
 
 Qual o próximo passo? Mudar as variáveis de ambiente de maneira igual no nosso [repositório anterior](https://github.com/felipesebben/API-workshop).
+
+# 4. Conclusão
+Nesta etapa, concluímos a implementação do nosso banco de dados. Partimos de uma criação em ambiente local, em um contêiner Docker, e subimos este para um serviço cloud.

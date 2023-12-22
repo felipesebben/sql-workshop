@@ -287,4 +287,4 @@ Um banco livre de máquina local - PostgreSQL no render!
 Qual o próximo passo? Mudar as variáveis de ambiente de maneira igual no nosso [repositório anterior](https://github.com/felipesebben/API-workshop).
 
 # 4. Conclusão
-Nesta etapa, concluímos a implementação do nosso banco de dados. Partimos de uma criação em ambiente local, em um contêiner Docker, e subimos este para um serviço cloud.
+Nesta etapa, concluímos a implementação do nosso banco de dados. Partimos de uma criação em ambiente local, em um contêiner Docker, e subimos este para um serviço cloud. Nosso próximo passo é implementar o Airflow, o que faremos em um [repositório separado](https://github.com/felipesebben/airflow-workshop).!
